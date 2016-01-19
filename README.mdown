@@ -3,5 +3,4 @@
 
 ### because gh-pages is wierd about URL's
 
-
-http://billarddrp.github.io/BRP-website/
+click [here](http://billarddrp.github.io/BRP-website/) for hosted website
